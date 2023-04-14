@@ -1,2 +1,2 @@
-# Herna-as
+# Hernaças
 Pratica de herança 
